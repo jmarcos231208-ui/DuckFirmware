@@ -1,0 +1,2 @@
+# DuckeFirmware
+A school project
